@@ -1,6 +1,5 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ Roya Mohammadi
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 👋 Hi, I'm Roya Mohammadi
+
 
 📍 Toronto, Canada  
 💻 Software Developer | Web & AI Explorer
