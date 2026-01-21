@@ -4,9 +4,9 @@
 📍 Toronto, Canada  
 💻 Software Developer | Web & AI Explorer
 
-I’m a curious developer who enjoys transforming ideas into functional, clean, and scalable software.  
+**I’m a curious developer who enjoys transforming ideas into functional, clean, and scalable software.  
 My focus is on **web development**, while actively expanding into **AI and data-driven solutions**.
----
+**---
 🧠 Focus Areas
 
 ▸ Frontend engineering 
