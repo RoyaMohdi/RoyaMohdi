@@ -53,8 +53,8 @@ Explore my repositories to see how I think and build.
 
 🔗 Connect With Me
 
-[GitHub](https://github.com/RoyaMohdi) 
-LinkedIn → https://www.linkedin.com/in/royamohammadi/    
+[GitHub](https://github.com/RoyaMohdi) /
+[LinkedIn](https://www.linkedin.com/in/royamohammadi/)   
 
 ---
 
