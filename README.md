@@ -1,16 +1,64 @@
-## Hi there 👋
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ Roya Mohammadi
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!--
-**RoyaMohdi/RoyaMohdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Toronto, Canada  
+💻 Software Developer | Web & AI Explorer
 
-Here are some ideas to get you started:
+I’m a curious developer who enjoys transforming ideas into functional, clean, and scalable software.  
+My focus is on **web development**, while actively expanding into **AI and data-driven solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧠 Focus Areas
+
+▸ Frontend engineering 
+▸ JavaScript ecosystems & modern frameworks  
+▸ Python programming & automation  
+▸ Machine Learning fundamentals  
+▸ Cloud Computing (AWS)
+
+
+---
+
+🧰 Tools I Work With
+
+• Languages: JavaScript, Python  
+• Frameworks: React, Node.js  
+• Web: HTML, CSS  
+• Version Control: Git & GitHub  
+
+---
+
+🧪 What You’ll Find in My GitHub
+
+Instead of just finished products, my GitHub shows:
+
+✓ Learning-by-building projects  
+✓ Clean, readable code experiments  
+✓ Step-by-step skill growth  
+✓ Practical implementations over theory  
+
+Explore my repositories to see how I think and build.
+
+---
+
+🌱 Currently Improving
+
+- Advanced JavaScript & React patterns  
+- Python for data & AI use cases  
+- Writing better, more maintainable code
+- AWS 
+
+---
+
+🔗 Connect With Me
+
+GitHub → https://github.com/RoyaMohdi  
+LinkedIn → https://www.linkedin.com/in/royamohammadi/    
+
+---
+
+💬 Open To
+
+Collaboration • Junior developer roles • Learning opportunities • Tech discussions
