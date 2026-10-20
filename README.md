@@ -32,12 +32,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,aws,linux,git,github,vscode&perline=10" />
 </p>
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" />
-  Contributions
-</h2>
 
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/9D4EDD/RoyaMohdi" alt="Roya's contribution chart" />
+</p>
 
 <!-- Animated footer -->
 <p align="center">
