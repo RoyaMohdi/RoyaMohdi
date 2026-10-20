@@ -25,12 +25,7 @@
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="35" />
-  Education
-</h2>
-
-- 🛡️ **York University, Lassonde**: Computer Science (Cybersecurity), current student
-- 🎓 **Humber Polytechnic**: Computer Programming and Analysis, graduated
-
+  
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" />
   Tech Stack
