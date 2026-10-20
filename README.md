@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=220&section=header&text=Roya%20Mohammadi&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20IT%20Analyst%20%7C%20Cybersecurity%20Student&descAlignY=72&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=220&section=header&text=Roya%20Mohammadi&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20IT%20Support%20%7C%20Cybersecurity%20Student&descAlignY=72&descSize=18" />
 </p>
 
 <!-- Typing animation -->
@@ -20,12 +20,34 @@
 </h2>
 
 - 📍 Toronto, Canada
-- 💻 Software Developer & 🛠️ IT Technician/Analyst
-- 🛡️ Computer Programming Graduate, now studying **Cybersecurity**
+- 💻 Software Developer & 🛠️ Information Technology Support
+- 🎓 Computer Programming and Analysis graduate, **Humber Polytechnic**
+- 🛡️ Computer Science (Cybersecurity) student at **York University, Lassonde**
 - 🌐 I build **clean, scalable web applications**
 - 🤖 Exploring **AI & data-driven solutions**
 - 🌱 My GitHub reflects learning-by-building, practical projects, and continuous growth
 - 💬 Open to collaboration, junior roles, and tech discussions
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="35" />
+  Education
+</h2>
+
+| 🏫 School | 📚 Program | 📅 Status |
+|---|---|---|
+| **York University**, Lassonde School of Engineering | Bachelor's in Computer Science, Cybersecurity | 🟣 Current Student |
+| **Humber Polytechnic** | Computer Programming and Analysis | 🎓 Graduated |
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" />
+  Experience
+</h2>
+
+**🛠️ Information Technology Support** · [Company Name] · [Start Month Year] – Present
+- Provide technical support for hardware, software, and network issues
+- Troubleshoot user accounts, devices, and system access
+- Install, configure, and maintain computers and software
+- Document solutions and help users with IT requests
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" />
