@@ -1,34 +1,52 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=$+whoami;Khatera+%7C+Software+Developer;Aspiring+Cybersecurity+Analyst;Learning.+Breaking.+Defending." />
-</h1>
+<!-- Animated header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=220&section=header&text=Khatera&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Programmer%20%7C%20Cybersecurity%20Student&descAlignY=72&descSize=20" />
+</p>
 
-```bash
-royamohdi@github:~$ cat about.txt
-🎓 Computer Programming Graduate
-🛡️ Cybersecurity student (beginner)
-🔍 Interested in: network security, SOC, ethical hacking
-📍 Toronto, Canada
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Building+secure+software+%F0%9F%94%90;Learning+ethical+hacking+%F0%9F%9B%A1%EF%B8%8F;Turning+coffee+into+code+%E2%98%95" />
+</p>
 
-khatera@github:~$ ls ./currently_learning
-linux_basics/  networking/  python_for_security/  wireshark/
-```
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
+  About Me
+</h2>
 
-### 🛠️ Tools & Languages
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Kali](https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00FF41)
+- 🎓 Computer Programming Graduate
+- 🛡️ Cybersecurity student, focused on network security
+- 🌱 Currently learning: Linux, Wireshark, Security+
+- 📍 Toronto, Canada
 
-### 🔐 Security Projects
-| Project | Description |
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" />
+  Tech Stack
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,linux,bash,git,vscode&perline=10" />
+</p>
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="35" />
+  Projects
+</h2>
+
+| 🔐 Project | 📝 What it does |
 |---|---|
-| [Port Scanner](link) | Python tool to scan open ports on my own lab network |
-| [Password Strength Checker](link) | Checks passwords against common security rules |
-| [Home Lab](link) | My virtual lab setup with Kali, Ubuntu, and pfSense |
+| [Project 1](link) | Short description |
+| [Project 2](link) | Short description |
 
-### 📜 Certifications & Learning
-- 🟢 [In progress] CompTIA Security+
-- 🟢 TryHackMe: Pre-Security path
-- 🟢 Google Cybersecurity Certificate
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" />
+  Stats
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khatera22&bg_color=0d1117&color=C77DFF&line=7F00FF&point=E100FF&area=true&hide_border=true" />
+</p>
+
+<!-- Animated footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer&animation=fadeIn" />
+</p>
