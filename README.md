@@ -23,11 +23,6 @@
 - 🌐 I build clean web apps and explore **AI & data-driven solutions**
 - 💬 Open to collaboration, junior roles, and tech discussions
 
-## Education
-
-- 🛡️ **York University, Lassonde**: Computer Science (Cybersecurity), current student
-- 🎓 **Humber Polytechnic**: Computer Programming and Analysis, graduated
-
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" />
   Tech Stack
