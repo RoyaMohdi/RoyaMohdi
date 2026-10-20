@@ -22,7 +22,12 @@
 - 🛠️ Working in **Information Technology Support**
 - 🌐 I build clean web apps and explore **AI & data-driven solutions**
 - 💬 Open to collaboration, junior roles, and tech discussions
-  
+
+## Education
+
+- 🛡️ **York University, Lassonde**: Computer Science (Cybersecurity), current student
+- 🎓 **Humber Polytechnic**: Computer Programming and Analysis, graduated
+
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" />
   Tech Stack
@@ -32,6 +37,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,aws,linux,git,github,vscode&perline=10" />
 </p>
 
+## Contributions
 
 <p align="center">
   <img src="https://ghchart.rshah.org/9D4EDD/RoyaMohdi" alt="Roya's contribution chart" />
