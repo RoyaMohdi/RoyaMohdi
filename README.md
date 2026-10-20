@@ -1,11 +1,11 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=220&section=header&text=Roya%20Mohammadi&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20IT%20Technician%2FAnalyst&descAlignY=72&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=220&section=header&text=Roya%20Mohammadi&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20IT%20Analyst%20%7C%20Cybersecurity%20Student&descAlignY=72&descSize=18" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+apps+%F0%9F%9A%80;Exploring+AI+%26+data-driven+solutions+%F0%9F%A4%96;Open+to+junior+roles+%26+collaboration+%F0%9F%A4%9D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+apps+%F0%9F%9A%80;Exploring+AI+%26+data-driven+solutions+%F0%9F%A4%96;Learning+cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Open+to+junior+roles+%26+collaboration+%F0%9F%A4%9D" />
 </p>
 
 <!-- Badges -->
@@ -21,6 +21,7 @@
 
 - 📍 Toronto, Canada
 - 💻 Software Developer & 🛠️ IT Technician/Analyst
+- 🛡️ Computer Programming Graduate, now studying **Cybersecurity**
 - 🌐 I build **clean, scalable web applications**
 - 🤖 Exploring **AI & data-driven solutions**
 - 🌱 My GitHub reflects learning-by-building, practical projects, and continuous growth
@@ -32,12 +33,28 @@
 </h2>
 
 <p align="center">
-  <b>Frontend • JavaScript & React • Python • Machine Learning • AWS</b>
+  <b>Frontend • JavaScript & React • Python • Machine Learning • AWS • Cybersecurity</b>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,sklearn,aws,git,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,sklearn,aws,linux,bash,git,github,vscode&perline=12" />
 </p>
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="35" />
+  Cybersecurity Journey
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-7F00FF?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-9D4EDD?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-C77DFF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-E100FF?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</p>
+
+- 🔐 Learning network security, Linux, and security fundamentals
+- 🧪 Practicing in my own home lab and on legal training platforms
+- 🎯 Goal: [e.g. CompTIA Security+ / SOC Analyst role]
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" />
@@ -48,7 +65,7 @@
 |---|---|---|
 | [Project 1](link) | Short description of what it does | React, JavaScript |
 | [Project 2](link) | Short description of what it does | Python, ML |
-| [Project 3](link) | Short description of what it does | AWS |
+| [Project 3](link) | Short description of what it does | Cybersecurity |
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" />
