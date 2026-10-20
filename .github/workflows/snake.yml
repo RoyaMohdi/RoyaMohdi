@@ -1,0 +1,32 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Update the date range in the README
+      - uses: actions/checkout@v4
+      - name: Update contribution years
+        run: |
+          RANGE="$(date -d '1 year ago' '+%b %Y') – $(date '+%b %Y')"
+          sed -i "s|<!--DATE-->.*<!--/DATE-->|<!--DATE-->$RANGE<!--/DATE-->|" README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git commit -am "Update contribution dates" && git push)
+
+      # Generate the snake
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Khatera22
+          outputs: dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
