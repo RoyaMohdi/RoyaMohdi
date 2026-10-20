@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Update the date range in the README
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Update contribution years
         run: |
           RANGE="$(date -d '1 year ago' '+%b %Y') – $(date '+%b %Y')"
@@ -22,9 +22,9 @@ jobs:
       # Generate the snake
       - uses: Platane/snk@v3
         with:
-          github_user_name: Khatera22
+          github_user_name: RoyaMohdi
           outputs: dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
