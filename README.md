@@ -36,6 +36,9 @@
   <img src="https://streak-stats.demolab.com?user=RoyaMohdi&background=0d1117&ring=C77DFF&fire=E100FF&currStreakLabel=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C77DFF&dates=A0A0A0&stroke=7F00FF&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/9D4EDD/RoyaMohdi" alt="Roya's contribution chart" />
+</p>
 
 
 <!-- Animated footer -->
