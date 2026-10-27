@@ -37,9 +37,8 @@
 </p>
 
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/9D4EDD/RoyaMohdi" alt="Roya's contribution chart" />
-</p>
 
 <!-- Animated footer -->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer&animation=fadeIn" />
+</p>
